@@ -1,0 +1,51 @@
+.main{
+    background-color:grey;
+    margin:auto;
+}
+.main-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main input{
+    height: 20px;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 25px 20px 0 0 ;
+    background-color: transparent;
+    border: 2px solid #ff4343;
+    cursor: pointer;
+}
+.main input:hover{
+    border: 2px solid #ee7e0f;
+    color: white;
+}
+input::placeholder{
+    color: white;
+
+}
+.main_sub_butt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.main_sub_butt button{
+    background-color:#ff4343;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    align-self: flex-end;
+    font-size: 15px;
+}
+
+
+/* sublanding */
+.bg-img{
+background-image: url("../Imgs/bg.png");
+height: calc(100vh - 155px);
+background-size: cover;
+
+}
