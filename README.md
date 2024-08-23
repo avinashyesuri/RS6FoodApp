@@ -5,13 +5,18 @@ Welcome to the Food Web Application project! This application allows users to br
 
 ## Features
 Landing Page: A welcoming landing page with options to search and filter food items.
+
 Food Search:
 Search for food items by name using the search bar.
+
 Food Filtering:
 Filter food items by type (e.g., Breakfast, Lunch, Dinner).
+
 Food Details:
 View detailed information about each food item, including its image, description, price, and type.
+
 Error Handling: Displays error messages if data cannot be fetched.
+
 Loading Indicator: Shows a loading message while data is being fetched from the server.
 
 ## GITCLONE 
