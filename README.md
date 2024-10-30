@@ -24,14 +24,11 @@ git clone -- https://github.com/avinashyesuri/RS6FoodApp.git
 Home page 
 ![image](https://github.com/user-attachments/assets/873ab4a2-664b-49ea-8e49-99c56356adeb)
 
-
 Type-breakfast
 ![image](https://github.com/user-attachments/assets/cc053250-5c4e-4ce4-8cb1-60f64bb3fabb)
 
-
 Type-lunch
 ![image](https://github.com/user-attachments/assets/302689bc-db22-4e4b-b340-9dd626391350)
-
 
 Type- dinner
 ![image](https://github.com/user-attachments/assets/62dcba1c-8c93-4ed9-a6f4-d70bd85969fc)
