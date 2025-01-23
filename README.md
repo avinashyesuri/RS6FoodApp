@@ -8,6 +8,7 @@ Landing Page: A welcoming landing page with options to search and filter food it
 Food Search:
 Search for food items by name using the search bar.
 
+
 Food Filtering:
 Filter food items by type (e.g., Breakfast, Lunch, Dinner).
 
