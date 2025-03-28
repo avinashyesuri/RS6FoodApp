@@ -5,6 +5,7 @@ Welcome to the Food Web Application project! This application allows users to br
 ## Features
 Landing Page: A welcoming landing page with options to search and filter food items.
 
+
 Food Search:
 Search for food items by name using the search bar.
 
