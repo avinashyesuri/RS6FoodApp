@@ -11,7 +11,6 @@ Search for food items by name using the search bar.
 
 Food Filtering:
 Filter food items by type (e.g., Breakfast, Lunch, Dinner).
-
 Food Details:
 View detailed information about each food item, including its image, description, price, and type.
 
