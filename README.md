@@ -13,7 +13,6 @@ Error Handling: Displays error messages if data cannot be fetched.
 Loading Indicator: Shows a loading message while data is being fetched from the server.
 ## GITCLONE 
 git clone -- https://github.com/avinashyesuri/RS6FoodApp.git
-
 Home page 
 ![image](https://github.com/user-attachments/assets/873ab4a2-664b-49ea-8e49-99c56356adeb)
 
