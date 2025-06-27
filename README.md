@@ -12,7 +12,6 @@ Food Details:
 View detailed information about each food item, including its image, description, price, and type.
 Error Handling: Displays error messages if data cannot be fetched.
 Loading Indicator: Shows a loading message while data is being fetched from the server.
-
 ## GITCLONE 
 git clone -- https://github.com/avinashyesuri/RS6FoodApp.git
 Home page 
