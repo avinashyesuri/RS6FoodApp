@@ -23,8 +23,6 @@ Type-lunch
 Type- dinner
 ![image](https://github.com/user-attachments/assets/62dcba1c-8c93-4ed9-a6f4-d70bd85969fc)
 
-
-
 Type-- using search
 ![image](https://github.com/user-attachments/assets/94b438e8-bef7-4453-b2f0-5e0197a05f83)
 
