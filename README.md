@@ -1,5 +1,8 @@
 
 
+
+
+
 ## RS6FoodApp Store
 Food Web Application
 Welcome to the Food Web Application project! This application allows users to browse, search, and filter various food items, providing detailed information about each item.
